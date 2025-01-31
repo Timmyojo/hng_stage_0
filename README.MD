@@ -32,6 +32,7 @@ http://localhost:8000
   "current_datetime": "2025-01-31T21:41:34.000000Z",
   "github_url": "https://github.com/Timmyojo/hng_stage_0"
 }
+```
 
 
 
