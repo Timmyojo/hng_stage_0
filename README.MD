@@ -37,7 +37,7 @@ http://localhost:8000
 
 
 ### LIVE URL
-**GET** 
+**GET** https://hng-stage-0-two.vercel.app
 
 ### Response Format (`200 OK`)
 ```json
